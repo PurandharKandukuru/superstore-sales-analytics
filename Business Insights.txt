@@ -1,0 +1,20 @@
+Business Insights — Superstore Sales Analytics
+
+1. Furniture sub-categories (Tables, Bookcases) are the biggest profitability risk — 
+   Tables alone lose ₹17,725 despite ₹206,965 in sales, suggesting excessive 
+   discounting is eroding margins.
+
+2. West region leads in both sales (₹725K) and profit (₹108K); South lags on both 
+   metrics — a candidate for a regional strategy review.
+
+3. Technology has the highest average profit per order (₹78.75), nearly 9x 
+   Furniture's (₹8.70) — indicates strong margin potential if Technology's share 
+   of sales is increased.
+
+4. Home Office customers get the lowest average discount (14.7%) but generate the 
+   highest average profit (₹33.82) — suggesting reduced discounting elsewhere could 
+   improve profitability without hurting sales volume.
+
+5. The discount-profit scatter plot shows a clear pattern: sub-categories with 
+   discounts above ~30% tend to cluster near zero or negative profit — recommend 
+   capping discounts on high-discount, low-margin categories.
